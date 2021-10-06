@@ -21,7 +21,7 @@
         "uniqueNamePrefix": "[toLower(concat(resourceGroup().name, uniqueString(subscription().subscriptionId)))]",
         "purviewAccountName": "[concat(parameters('deploymentTla'),variables('uniqueNamePrefix'),'datagov')]",
         "managedRgName": "[concat('managed-rg-',parameters('deploymentTla'),variables('uniqueNamePrefix'),'datagov')]",
-        "keyVaultName":"[concat('purviewkv-', parameters('deploymentTla'),uniqueString(resourceGroup().id))]"
+        "keyVaultName":"[concat('kv-', parameters('deploymentTla'),uniqueString(resourceGroup().id))]"
     },
     "resources": [
         {
