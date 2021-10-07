@@ -20,7 +20,7 @@ This [GitHub Repository](https://github.com/DataSnowman/purviewARM) along with a
 
 | Deployment | Use Case Name | Use Case Type | Dataset | Description | Code | Instruction Steps |
 | :------------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| [Azure Data Factory, Azure Databricks, and Azure SQL Database](https://github.com/DataSnowman/ChangeDataCapture#deploy-azure-datafactory-azure-databricks-and-azure-sql-database) | Change Data Capture | Azure Databricks, ADF, Azure SQL DB | AdventureworksLT | Change Data Capture using ADF and Databricks Autoloader | [Code](https://github.com/DataSnowman/ChangeDataCapture/tree/main/usecases/cdc/code) | [Steps](https://github.com/DataSnowman/ChangeDataCapture/blob/main/usecases/cdc/steps/usecasesteps.md) |
+| [Azure Purview](https://github.com/DataSnowman/purviewARM#deploy-azure-purview) | Data Governance | Azure Purview | AdventureworksLT | Data Governance with Azure Purview | [Code]() | [Steps]() |
 
 ## Prerequisites
 
