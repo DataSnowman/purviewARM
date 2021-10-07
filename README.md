@@ -20,7 +20,9 @@ This [GitHub Repository](https://github.com/DataSnowman/purviewARM) along with a
 
 | Deployment | Use Case Name | Use Case Type | Dataset | Description | Code | Instruction Steps |
 | :------------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| [Azure Purview](https://github.com/DataSnowman/purviewARM#deploy-azure-purview) | Data Governance | Azure Purview | AdventureworksLT | Data Governance with Azure Purview | [Code]() | [Steps]() |
+| [Azure Purview](https://github.com/DataSnowman/purviewARM#deploy-azure-purview) | Data Governance | Azure Purview | AdventureworksLT | Data Governance with Azure Purview | [Code](https://github.com/DataSnowman/analytics-accelerator/tree/main/usecases/cdc/code) | 
+[Deploy CDC Accelerator](https://github.com/DataSnowman/analytics-accelerator#deploy-an-azure-databricks-workspace)
+[Then Use CDC Steps](https://github.com/DataSnowman/analytics-accelerator/blob/main/usecases/cdc/steps/usecasesteps.md) |
 
 ## Prerequisites
 
